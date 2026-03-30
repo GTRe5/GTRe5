@@ -7,11 +7,11 @@
 ---
 
 ## 🧠 About Me
-- 🎓 Studying at [Your University]
+- 🎓 Studying at Ton Duc Thang University
 - 📊 Strong in Data Analysis, Machine Learning, Deep Learning
 - 🔍 Interested in: NLP, Computer Vision, Recommendation Systems
 - 🚀 Goal: Become AI Engineer / Data Scientist
-- 📫 Email: yourmail@gmail.com
+- 📫 Email: hungpro123b@gmail.com
 
 ---
 
