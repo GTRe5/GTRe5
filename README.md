@@ -89,7 +89,7 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pqh2005)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)]([https://portfolio-gtre5.vercel.app/])
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://portfolio-gtre5.vercel.app/)
 
 ---
 
