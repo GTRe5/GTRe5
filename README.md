@@ -67,10 +67,10 @@
 ## 📊 GitHub Analytics
 
 ### 🔥 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GTRe5&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=GTRe5&show_icons=true&theme=tokyonight)
 
 ### 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GTRe5&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GTRe5&layout=compact&theme=tokyonight)
 
 ### 🧮 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GTRe5&theme=tokyo-night)
