@@ -66,9 +66,6 @@
 
 ## 📊 GitHub Analytics
 
-### 🔥 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=GTRe5&show_icons=true&theme=tokyonight)
-
 ### 📈 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GTRe5&layout=compact&theme=tokyonight)
 
