@@ -6,9 +6,9 @@
 
 📍 Vietnam &nbsp;·&nbsp; 🎓 Ton Duc Thang University &nbsp;·&nbsp; 📫 hungpro123b@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pqh2005)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-gtre5.vercel.app/)
-[![Profile Views](https://komarev.com/ghpvc/?username=GTRe5&style=for-the-badge&color=0e75b6)](https://github.com/GTRe5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pqh2005)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-gtre5.vercel.app/)
+[![Profile Views](https://komarev.com/ghpvc/?username=GTRe5&style=flat-square&color=0e75b6)](https://github.com/GTRe5)
 
 </div>
 
@@ -27,22 +27,22 @@
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 
 **Data & ML**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
 
 ---
 
@@ -50,10 +50,10 @@
 
 ### 🤚 [HaGRID — Hand Gesture Recognition](https://github.com/GTRe5/hagrid-gesture-recognition)
 
-[![Python 3.12](https://img.shields.io/badge/python-3.12.3-blue.svg)](https://www.python.org/)
-[![timm](https://img.shields.io/badge/timm-EfficientNet-blue)](https://github.com/huggingface/pytorch-image-models)
-[![Dataset](https://img.shields.io/badge/dataset-HaGRID-green)](https://huggingface.co/datasets/GestureDetectionConnoisseurs/hagrid_subsets)
-[![Model](https://img.shields.io/badge/model-EfficientNet--B0-orange)](https://huggingface.co/timm/efficientnet_b0.ra_in1k)
+[![Python 3.12](https://img.shields.io/badge/Python-3.12.3-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![timm](https://img.shields.io/badge/timm-EfficientNet-0081C9?style=flat-square&logo=huggingface&logoColor=white)](https://github.com/huggingface/pytorch-image-models)
+[![Dataset](https://img.shields.io/badge/Dataset-HaGRID-22C55E?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/datasets/GestureDetectionConnoisseurs/hagrid_subsets)
+[![Model](https://img.shields.io/badge/Model-EfficientNet--B0-F97316?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/timm/efficientnet_b0.ra_in1k)
 
 📌 Real-time hand gesture classification from webcam using **EfficientNet-B0** fine-tuned on the HaGRID dataset (34 gesture classes).  
 ⚙️ Tech: PyTorch, timm, HuggingFace Datasets, OpenCV  
@@ -64,17 +64,27 @@
 
 ---
 
-### 🖼️ [AI Image Captioning (COCO Dataset)](https://github.com/GTRe5/project1)
+### 🖼️ [PixelNarrator — AI Image Captioning (COCO)](https://github.com/GTRe5/Image-Captioning-COCO)
 
-📌 Deep learning model combining **CNN + LSTM + Attention** for automatic image captioning.  
-⚙️ Tech: PyTorch, ResNet, NLP  
+[![Python 3.12](https://img.shields.io/badge/Python-3.12.3-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Dataset](https://img.shields.io/badge/Dataset-MS%20COCO%202017-5C9BD6?style=flat-square&logo=microsoftazure&logoColor=white)](https://cocodataset.org/)
+[![Gradio](https://img.shields.io/badge/Demo-Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)](https://gradio.app/)
+
+📌 End-to-end image captioning system combining **CNN + LSTM + Bahdanau Attention** — generates natural-language descriptions with per-word attention heat-maps.  
+⚙️ Tech: PyTorch, ResNet-50, NLTK, Gradio  
 📊 Achievements:
-- Improved BLEU score with Attention mechanism
-- Benchmarked multiple architectures (baseline vs full attention model)
+- Improved BLEU score with soft spatial Attention mechanism
+- Benchmarked 4 ablation configs (baseline → pretrained encoder → attention → full model)
+- Built interactive Gradio demo with clipboard paste and attention heat-map visualisation
 
 ---
 
 ### 🛒 [Market Basket Analysis](https://github.com/GTRe5/project2)
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)](https://spark.apache.org/)
+[![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white)](https://hadoop.apache.org/)
 
 📌 Association Rule Mining with **FP-Growth / Apriori** on transaction datasets.  
 ⚙️ Tech: PySpark, Hadoop  
@@ -85,6 +95,11 @@
 ---
 
 ### 📊 [Data Analysis Dashboard](https://github.com/GTRe5/project3)
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
 
 📌 End-to-end data visualization and insights dashboard.  
 ⚙️ Tech: Python, Pandas, Power BI / Streamlit  
