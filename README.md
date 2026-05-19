@@ -117,10 +117,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GTRe5&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
 <!-- Profile Summary Cards — languages by repo count + most committed language -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GTRe5&theme=gruvbox" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GTRe5&theme=gruvbox" />
-</p>
+| ![Repos by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GTRe5&theme=gruvbox) | ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GTRe5&theme=gruvbox) |
+| --- | --- |
 
 <!-- Full profile overview card -->
 ![GitHub profile overview card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GTRe5&theme=gruvbox)
