@@ -80,32 +80,21 @@
 
 ---
 
-### 🛒 [Market Basket Analysis](https://github.com/GTRe5/project2)
+### 📈 [TrendScope — Real-time GitHub Trending Dashboard](https://github.com/GTRe5/TrendScope)
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)](https://spark.apache.org/)
-[![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white)](https://hadoop.apache.org/)
-
-📌 Association Rule Mining with **FP-Growth / Apriori** on transaction datasets.  
-⚙️ Tech: PySpark, Hadoop  
-📊 Achievements:
-- Extracted strong rules by support / confidence / lift
-- Optimized performance with distributed computing on large-scale data
-
----
-
-### 📊 [Data Analysis Dashboard](https://github.com/GTRe5/project3)
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Python 3.12](https://img.shields.io/badge/Python-3.12.3-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com/)
+[![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-59666C?style=flat-square&logo=python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/)
+[![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=white)](https://ngrok.com/)
 
-📌 End-to-end data visualization and insights dashboard.  
-⚙️ Tech: Python, Pandas, Power BI / Streamlit  
+📌 A live GitHub Trending dashboard that scrapes and visualises trending repositories in real time — **no API key required**. Features an interactive dark-orange themed UI with bar charts, daily star rankings, and KPI summaries.  
+⚙️ Tech: Streamlit, Plotly, BeautifulSoup4, ngrok, Python  
 📊 Achievements:
-- Cleaned and transformed large real-world datasets
-- Delivered actionable business insights through interactive visualizations
+- Built a zero-auth scraper using **BeautifulSoup4** to pull live GitHub trending data without any API token
+- Designed interactive **Plotly** bar charts ranking repositories by daily stars gained
+- Exposed the local Streamlit app publicly via **ngrok** tunnel for easy live sharing
+- Developed a custom dark-orange dashboard theme with a KPI strip (repos count, total stars, stars gained, top language)
 
 ---
 
