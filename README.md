@@ -48,6 +48,8 @@
 
 ## 📂 Featured Projects
 
+![Banner](./assets/logo_hagrid.jpg)
+
 ### 🤚 [HaGRID - Hand Gesture Recognition](https://github.com/GTRe5/hagrid-gesture-recognition)
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12.3-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
@@ -64,6 +66,8 @@
 
 ---
 
+![Banner](./assets/logo_pixel.svg)
+
 ### 🖼️ [PixelNarrator - AI Image Captioning (COCO)](https://github.com/GTRe5/Image-Captioning-COCO)
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12.3-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
@@ -79,6 +83,7 @@
 - Built interactive Gradio demo with clipboard paste and attention heat-map visualisation
 
 ---
+![Banner](./assets/logo_trend.svg)
 
 ### 📈 [TrendScope - Real-time GitHub Trending Dashboard](https://github.com/GTRe5/TrendScope)
 
@@ -97,6 +102,8 @@
 - Developed a custom dark-orange dashboard theme with a KPI strip (repos count, total stars, stars gained, top language)
 
 ---
+
+![Banner](./assets/logo_snip.png)
 
 ### 🔗 [Snipline - Real-Time URL Shortener](https://github.com/GTRe5/Snipline)
 
