@@ -48,7 +48,7 @@
 
 ## 📂 Featured Projects
 
-### 🤚 [HaGRID — Hand Gesture Recognition](https://github.com/GTRe5/hagrid-gesture-recognition)
+### 🤚 [HaGRID - Hand Gesture Recognition](https://github.com/GTRe5/hagrid-gesture-recognition)
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12.3-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![timm](https://img.shields.io/badge/timm-EfficientNet-0081C9?style=flat-square&logo=huggingface&logoColor=white)](https://github.com/huggingface/pytorch-image-models)
@@ -64,14 +64,14 @@
 
 ---
 
-### 🖼️ [PixelNarrator — AI Image Captioning (COCO)](https://github.com/GTRe5/Image-Captioning-COCO)
+### 🖼️ [PixelNarrator - AI Image Captioning (COCO)](https://github.com/GTRe5/Image-Captioning-COCO)
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12.3-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Dataset](https://img.shields.io/badge/Dataset-MS%20COCO%202017-5C9BD6?style=flat-square&logo=microsoftazure&logoColor=white)](https://cocodataset.org/)
 [![Gradio](https://img.shields.io/badge/Demo-Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)](https://gradio.app/)
 
-📌 End-to-end image captioning system combining **CNN + LSTM + Bahdanau Attention** — generates natural-language descriptions with per-word attention heat-maps.  
+📌 End-to-end image captioning system combining **CNN + LSTM + Bahdanau Attention** - generates natural-language descriptions with per-word attention heat-maps.  
 ⚙️ Tech: PyTorch, ResNet-50, NLTK, Gradio  
 📊 Achievements:
 - Improved BLEU score with soft spatial Attention mechanism
@@ -80,7 +80,7 @@
 
 ---
 
-### 📈 [TrendScope — Real-time GitHub Trending Dashboard](https://github.com/GTRe5/TrendScope)
+### 📈 [TrendScope - Real-time GitHub Trending Dashboard](https://github.com/GTRe5/TrendScope)
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12.3-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
@@ -88,7 +88,7 @@
 [![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-59666C?style=flat-square&logo=python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/)
 [![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=white)](https://ngrok.com/)
 
-📌 A live GitHub Trending dashboard that scrapes and visualises trending repositories in real time — **no API key required**. Features an interactive dark-orange themed UI with bar charts, daily star rankings, and KPI summaries.  
+📌 A live GitHub Trending dashboard that scrapes and visualises trending repositories in real time - **no API key required**. Features an interactive dark-orange themed UI with bar charts, daily star rankings, and KPI summaries.  
 ⚙️ Tech: Streamlit, Plotly, BeautifulSoup4, ngrok, Python  
 📊 Achievements:
 - Built a zero-auth scraper using **BeautifulSoup4** to pull live GitHub trending data without any API token
@@ -98,14 +98,31 @@
 
 ---
 
+### 🔗 [Snipline - Real-Time URL Shortener](https://github.com/GTRe5/Snipline)
+
+[![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Upstash Redis](https://img.shields.io/badge/Upstash-Redis-00E9A3?style=flat-square&logo=redis&logoColor=white)](https://upstash.com/)
+
+📌 Real-time URL shortener built with **Next.js 16** (App Router) and **TypeScript** - paste a long link, get a short one back instantly, with custom aliases, live click tracking, and a full link ledger. Ready to deploy on **Vercel** in minutes.  
+⚙️ Tech: Next.js 16, TypeScript, Tailwind CSS v4, Framer Motion, Upstash Redis  
+📊 Achievements:
+- Built short-code generation and click-tracked redirects entirely server-side with Next.js Server Components
+- Implemented persistent storage via **Upstash Redis**, with an automatic in-memory fallback for local dev
+- Added custom aliases, per-IP rate limiting, and a collision-safe **nanoid**-based code generator
+- Engineered a real-time link ledger with live click-count polling and **Framer Motion** animations
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- Streak + total contributions (demolab — very stable) -->
+<!-- Streak + total contributions (demolab - very stable) -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GTRe5&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
-<!-- Profile Summary Cards — languages by repo count + most committed language -->
+<!-- Profile Summary Cards - languages by repo count + most committed language -->
 | ![Repos by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GTRe5&theme=gruvbox) | ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GTRe5&theme=gruvbox) |
 | --- | --- |
 
@@ -132,6 +149,6 @@
 
 <div align="center">
 
-⭐️ From **GTRe5** — Building AI for the future 🚀
+⭐️ From **GTRe5** - Building AI for the future 🚀
 
 </div>
