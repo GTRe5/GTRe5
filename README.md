@@ -18,7 +18,7 @@
 
 ## 🧠 About Me
 
-I build small end-to-end ML systems rather than just notebooks — gesture recognition with a live webcam demo, an image captioner with attention heat-maps, a scraping dashboard with no API key. I like taking a model past the "it works in a notebook" stage to something a person can actually click on.
+I build small end-to-end ML systems rather than just notebooks - gesture recognition with a live webcam demo, an image captioner with attention heat-maps, a scraping dashboard with no API key. I like taking a model past the "it works in a notebook" stage to something a person can actually click on.
 
 - 🔍 Currently focused on **computer vision** and **NLP**, with a growing interest in **MLOps / model deployment**
 - 🌱 Learning: serving models in production, LLM fine-tuning
@@ -81,7 +81,7 @@ End-to-end image captioning system combining **CNN + LSTM + Bahdanau Attention**
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com/)
 [![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-59666C?style=flat-square&logo=python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/)
 
-A live GitHub Trending dashboard that scrapes and visualizes trending repos in real time — **no API key required**.
+A live GitHub Trending dashboard that scrapes and visualizes trending repos in real time - **no API key required**.
 
 - Zero-auth scraper built with BeautifulSoup4
 - Interactive Plotly charts ranking repos by daily stars gained
@@ -95,7 +95,7 @@ A live GitHub Trending dashboard that scrapes and visualizes trending repos in r
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Upstash Redis](https://img.shields.io/badge/Upstash-Redis-00E9A3?style=flat-square&logo=redis&logoColor=white)](https://upstash.com/)
 
-Real-time URL shortener built with **Next.js 16** and **TypeScript** — paste a long link, get a short one instantly, with custom aliases and live click tracking.
+Real-time URL shortener built with **Next.js 16** and **TypeScript** - paste a long link, get a short one instantly, with custom aliases and live click tracking.
 
 - Short-code generation and click-tracked redirects done server-side via Next.js Server Components
 - Persistent storage via Upstash Redis, with automatic in-memory fallback for local dev
@@ -126,6 +126,6 @@ Big-data association-rule mining on retail transaction data using PySpark on a H
 
 <div align="center">
 
-⭐ From **GTRe5** — building AI for the future 🚀
+⭐ From **GTRe5** - building AI for the future 🚀
 
 </div>
